@@ -4,7 +4,8 @@
     "test": "ts-node -r dotenv-override-true/config src/index.ts"
   },
   "dependencies": {
-    "@rc-ex/core": "^0.8.7"
+    "@rc-ex/core": "^0.8.7",
+    "@rc-ex/pubnub": "^0.7.16"
   },
   "devDependencies": {
     "@types/node": "^16.4.10",
